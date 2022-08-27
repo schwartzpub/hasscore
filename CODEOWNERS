@@ -167,6 +167,7 @@ build.json @home-assistant/supervisor
 /tests/components/calendar/ @home-assistant/core
 /homeassistant/components/camera/ @home-assistant/core
 /tests/components/camera/ @home-assistant/core
+/homeassistant/components/canvas/ @schwartzpub
 /homeassistant/components/cast/ @emontnemery
 /tests/components/cast/ @emontnemery
 /homeassistant/components/cert_expiry/ @Cereal2nd @jjlawren
@@ -512,6 +513,7 @@ build.json @home-assistant/supervisor
 /homeassistant/components/image_processing/ @home-assistant/core
 /tests/components/image_processing/ @home-assistant/core
 /homeassistant/components/incomfort/ @zxdavb
+/homeassistant/components/infinitecampus/ @schwartzpub
 /homeassistant/components/influxdb/ @mdegat01
 /tests/components/influxdb/ @mdegat01
 /homeassistant/components/inkbird/ @bdraco
