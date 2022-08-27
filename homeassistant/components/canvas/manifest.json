@@ -1,0 +1,10 @@
+{
+  "domain": "canvas",
+  "name": "Canvas",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/canvas",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@schwartzpub"],
+  "iot_class": "local_push"
+}
