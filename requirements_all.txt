@@ -472,6 +472,9 @@ buienradar==1.0.5
 # homeassistant.components.caldav
 caldav==0.9.1
 
+# homeassistant.components.canvas
+canvas_parent_api==0.0.2
+
 # homeassistant.components.circuit
 circuit-webhook==1.0.1
 
